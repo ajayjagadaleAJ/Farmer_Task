@@ -1,4 +1,4 @@
-# Farmer_Task
+# Farmer_Task using REST API
 Creating Restapi for farmer to get price of crops using springboot and postgresql database
 # Adding crop in database
 POST : localhost:8080/rate/addcrop
